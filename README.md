@@ -4,7 +4,6 @@ A convolutional neural network that classifies how many fingers you're holding u
 I built this to learn CNNs properly. Instead of following a tutorial with someone else's dataset, I collected my own images of people holding up different numbers of fingers and trained a model from scratch. Then I wrote a webcam script that loads the model and predicts live.
 Demo
 
-<img width="638" height="514" alt="1_finger" src="https://github.com/user-attachments/assets/33e3a854-f656-4ca4-87ce-7f9bad2fdf7b" />
 <img width="641" height="511" alt="2_fingers" src="https://github.com/user-attachments/assets/e39f00f8-70b0-4ac0-8076-65d1b9624ef0" />
 <img width="639" height="510" alt="3_fingers" src="https://github.com/user-attachments/assets/e169b810-3329-46ec-a6c6-d49b226fe37b" />
 
